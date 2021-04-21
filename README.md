@@ -13,6 +13,11 @@ The barrier isn't as hard to overcome as you think.
 You can follow along in this journey by checking out the blog, ccpaco.github.io. I try to write tutorial and motivational articles for fellow self-taught developers. 
 
 
+And if you're looking directly for the main file where all the magic happens, it's viewable at Open-AI-DALL-E-fork/notebooks/usage.ipynb
+
+
+Don't forget to use the command-line to set everything up and install Python dependencies and libraries. I found Anaconda particularly valuable. And, there's always my blogs for quick reference.
+
 Best, 
 
 
