@@ -10,7 +10,7 @@ I've decided to spend 2020-2021, amidst the global COVID-19 Pandemic, to greatly
 The barrier isn't as hard to overcome as you think. 
 
 
-You can follow along in this journey by checking out the blog, ccpaco.github.io. I try to write tutorial and motivational articles for fellow self-taught developers. 
+You can follow along in this journey by checking out the blog, [ccpaco.github.io](ccpaco.github.io). I try to write tutorial and motivational articles for fellow self-taught developers. 
 
 
 And if you're looking directly for the main Jupyter file where all our magic happens, it's [here. ](https://github.com/ccpaco/Open-AI-DALL-E-fork/blob/main/notebooks/usage.ipynb)
